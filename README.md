@@ -1,4 +1,3 @@
-# Elite-Qualifer README
 
 # Chatter Box 
 
