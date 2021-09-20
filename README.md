@@ -24,3 +24,9 @@ Have a good working computer. It's a simple program.
 Firstly, you'd have to run the program to start communicating to Mr Chattington or also known as the Chatter Box. Once the computer asks you questions you respond. Sometimes the Bot may allow you to ask questions of your own as well.
 
 ### Any optional sections
+
+## testplan
+To test the project:
+
+1. Run the test
+2. Check the results
