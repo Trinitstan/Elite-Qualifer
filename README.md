@@ -1,7 +1,7 @@
 
 # Chatter Box 
 
-A tiny program in which you would converse with a computer named Mr Chattington.
+A tiny program in which you would converse with a computer named Mr Chattington. Hello Guys!
 
 ## Table of Contents
 
